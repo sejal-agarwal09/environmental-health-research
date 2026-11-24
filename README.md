@@ -52,3 +52,24 @@ Python · Pandas · GeoPandas · Matplotlib · SciPy · PySAL · Google Colab
 - Supporting documentation and research notes
 - Figures generated throughout the analysis
 
+
+## Visualizations
+
+The following maps show the geographic distribution of selected environmental, socioeconomic, and health indicators across Santa Clara County census tracts.
+
+### Asthma Prevalence
+
+![Asthma Prevalence](figures/asthma_map.png)
+
+### Diabetes Prevalence
+
+![Diabetes Prevalence](figures/diabetes_map.png)
+
+### Median Household Income
+
+![Median Household Income](figures/income_map.png)
+
+### PM2.5 Indicator
+
+![PM2.5 Indicator](figures/pm25_map.png)
+
